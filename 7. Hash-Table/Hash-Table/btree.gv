@@ -1,0 +1,10 @@
+digraph btree {
+"aamin" -> "asuper";
+"awerty" -> "aamin";
+"awerty" -> "bamin";
+"word" -> "tsd";
+"super" -> "qwerty";
+"super" -> "word";
+"omin" -> "awerty";
+"omin" -> "super";
+}

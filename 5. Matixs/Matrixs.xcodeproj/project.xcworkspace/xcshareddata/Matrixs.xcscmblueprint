@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "823f2cbd-0232-48e4-bf1b-7916994b621d",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "823f2cbd-0232-48e4-bf1b-7916994b621d" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "823f2cbd-0232-48e4-bf1b-7916994b621d" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "26450616-B0AC-454F-AA44-DFE6192E3478",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "823f2cbd-0232-48e4-bf1b-7916994b621d" : "structures_15_a-benarieb\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Matrixs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "lab5\/Matrixs.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/dev.iu7.bmstu.ru\/svn\/structures_15_a-benarieb",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "823f2cbd-0232-48e4-bf1b-7916994b621d"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+digraph tree {
+"awerty" -> "asuper";
+"aamin" -> "awerty";
+"word" -> "tsd";
+"super" -> "qwerty";
+"super" -> "word";
+"omin" -> "super";
+"bamin" -> "aamin";
+"bamin" -> "omin";
+}

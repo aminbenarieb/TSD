@@ -1,0 +1,13 @@
+digraph {
+"Astana" [shape=box,style=filled,color=".7 .3 1.0"]
+"London" [shape=circle,style=filled,color=".3 .3 1.0"]
+"Moscow" -> "New-York"[label=5.0];
+"Moscow" -> "Astana"[label=6.0];
+"Moscow" -> "London"[label=3.0];
+"New-York" -> "Moscow"[label=23.0];
+"New-York" -> "Astana"[label=5.0];
+"New-York" -> "London"[label=2.0];
+"Astana" -> "Moscow"[label=5.0];
+"Astana" -> "New-York"[label=14.0];
+"Astana" -> "London"[label=19.0];
+}
